@@ -186,6 +186,11 @@ $RECYCLE.BIN/
 .DS_Store
 
 
+# Intellij
+.idea/
+*.iml
+*.iws
+
 #############
 ## Python
 #############
